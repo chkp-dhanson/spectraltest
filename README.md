@@ -1,2 +1,2 @@
 # spectraltest
-Test of Spectral Producgt
+Test of Spectral Product
